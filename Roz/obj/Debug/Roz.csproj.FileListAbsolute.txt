@@ -1,0 +1,7 @@
+C:\Users\Hubert\source\repos\Roz\Roz\bin\Debug\Roz.exe.config
+C:\Users\Hubert\source\repos\Roz\Roz\bin\Debug\Roz.exe
+C:\Users\Hubert\source\repos\Roz\Roz\bin\Debug\Roz.pdb
+C:\Users\Hubert\source\repos\Roz\Roz\obj\Debug\Roz.csprojAssemblyReference.cache
+C:\Users\Hubert\source\repos\Roz\Roz\obj\Debug\Roz.csproj.CoreCompileInputs.cache
+C:\Users\Hubert\source\repos\Roz\Roz\obj\Debug\Roz.exe
+C:\Users\Hubert\source\repos\Roz\Roz\obj\Debug\Roz.pdb
